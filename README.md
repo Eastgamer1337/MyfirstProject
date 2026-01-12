@@ -1,2 +1,7 @@
 # MyfirstProject
-Mein erstes Project
+---
+## Mein erstes Projekt auf GitHub
+- HTML
+- CSS
+- JS
+---
